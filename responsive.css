@@ -1,0 +1,175 @@
+@media( max-width:991px){
+    .img-fluid img{
+        max-width: 100%; 
+        height: auto;
+    }
+    .banner{
+        padding: 40px;
+    }
+    .btn-rouge {
+        margin-right: 15px;
+        
+    }
+    .img-size img{
+        max-width: 40%;
+        height: auto;
+    }
+    .img-size p{
+        font-size: 12px;
+        font-family: Arial;
+        font-weight: 700;
+        text-align: center;
+        
+    }
+    .border-size{
+        margin-top: 20px;
+    }
+    .border-size2{
+        width: 65%;
+        padding:10px;
+        border-radius: 20px;
+    }
+    .border-size2 p{
+        color: #F44336;
+        font-family: Montserrat;
+    font-size: 10px;
+    font-weight: 700;
+   
+    
+    
+        
+    }
+    .border-size3{
+        width: 67%;
+        padding:10px;
+        border-radius: 20px;
+    }
+    .border-size3 p{
+        color:#009688;
+        
+        font-family: Montserrat;
+    font-size: 10px;
+    font-weight: 700;
+   
+      
+    }
+    .border-size4{
+        width: 65%;
+        padding:10px;
+        border-radius: 20px;
+    }
+    .border-size4 p{
+        color:#FF9800;
+        
+        
+        font-family: Montserrat;
+    font-size: 10px;
+    font-weight: 400;
+    
+    
+}
+.img-container img{
+    margin-top: -2rem;
+}
+.img-container img{
+    margin-top: -17rem;
+}
+.coachs_wrapper{
+    margin-top: 10rem;
+}
+.border-size5{
+    width: 100%;
+    text-align: center;
+
+}
+.img-container2 img{
+    margin-top: 1rem;
+}
+.bg-color{
+    background-color: #EEF9F8E5;
+    text-align: center;
+    height: auto;
+    
+}
+
+
+}
+    
+
+
+
+
+
+
+
+
+
+@media( max-width:767px){
+    .img-fluid img{
+        max-width: 100%; 
+        height: auto;
+    }
+    .banner{
+        padding: 40px;
+    }
+    .btn-rouge {
+        margin-right: 15px;
+        
+    }
+    .img-size img{
+        max-width: 40%;
+        height: auto;
+    }
+    .img-size p{
+        font-size: 12px;
+        font-family: Arial;
+        font-weight: 700;
+        text-align: center;
+        
+    }
+    .border-size2{
+        width: 65%;
+        padding:10px;
+        border-radius: 20px;
+    }
+    .border-size2 p{
+        color: #F44336;
+        font-family: Montserrat;
+    font-size: 10px;
+    font-weight: 700;
+   
+    
+    
+        
+    }
+    .border-size3{
+        width: 67%;
+        padding:10px;
+        border-radius: 20px;
+    }
+    .border-size3 p{
+        color:#009688;
+        
+        font-family: Montserrat;
+    font-size: 10px;
+    font-weight: 700;
+   
+      
+    }
+    .border-size4{
+        width: 65%;
+        padding:10px;
+        border-radius: 20px;
+    }
+    .border-size4 p{
+        color:#FF9800;
+        
+        
+        font-family: Montserrat;
+    font-size: 10px;
+    font-weight: 400;
+    
+    
+}
+    
+}
